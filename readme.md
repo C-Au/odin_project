@@ -1,1 +1,1 @@
-This is a repo for my Odin Project work
+This is a repo for my Odin Project work.
